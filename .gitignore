@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# état utilisateur local, propre à chaque poste
+data/user-state.json
