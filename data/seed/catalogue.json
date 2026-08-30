@@ -1,0 +1,1932 @@
+{
+  "provenance": {
+    "sources": [
+      {
+        "type": "seed-manuel",
+        "url": null,
+        "label": "Amorce saisie à la main — non vérifiée"
+      }
+    ],
+    "collectedAt": "2026-08-30",
+    "verifiedAt": null
+  },
+  "perfumes": [
+    {
+      "id": "dior-sauvage-edt",
+      "brand": "Dior",
+      "name": "Sauvage",
+      "year": 2015,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "François Demachy"
+      ],
+      "notes": {
+        "tete": [
+          "bergamote",
+          "poivre-rose"
+        ],
+        "coeur": [
+          "poivre-noir",
+          "lavande",
+          "geranium"
+        ],
+        "fond": [
+          "ambroxan",
+          "cedre",
+          "labdanum",
+          "patchouli"
+        ]
+      },
+      "accords": [
+        "frais",
+        "epice",
+        "ambre",
+        "boise"
+      ],
+      "family": "ambree",
+      "seasons": [
+        "printemps",
+        "ete",
+        "automne"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "chanel-bleu-de-chanel-edp",
+      "brand": "Chanel",
+      "name": "Bleu de Chanel",
+      "year": 2014,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Jacques Polge"
+      ],
+      "notes": {
+        "tete": [
+          "pamplemousse",
+          "citron",
+          "menthe"
+        ],
+        "coeur": [
+          "gingembre",
+          "muscade",
+          "jasmin"
+        ],
+        "fond": [
+          "encens",
+          "santal",
+          "cedre",
+          "labdanum"
+        ]
+      },
+      "accords": [
+        "boise",
+        "frais",
+        "epice",
+        "ambre"
+      ],
+      "family": "boisee-seche",
+      "seasons": [
+        "printemps",
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "creed-aventus",
+      "brand": "Creed",
+      "name": "Aventus",
+      "year": 2010,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Erwin Creed"
+      ],
+      "notes": {
+        "tete": [
+          "ananas",
+          "bergamote",
+          "cassis",
+          "pomme"
+        ],
+        "coeur": [
+          "bouleau",
+          "patchouli",
+          "rose",
+          "jasmin"
+        ],
+        "fond": [
+          "musc-blanc",
+          "mousse-de-chene",
+          "ambre-gris",
+          "vanille"
+        ]
+      },
+      "accords": [
+        "fruite",
+        "fume",
+        "boise",
+        "musc"
+      ],
+      "family": "fumee",
+      "seasons": [
+        "printemps",
+        "ete",
+        "automne"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "armaf-club-de-nuit-intense-man",
+      "brand": "Armaf",
+      "name": "Club de Nuit Intense Man",
+      "year": 2015,
+      "concentration": "eau-de-toilette",
+      "perfumers": [],
+      "notes": {
+        "tete": [
+          "ananas",
+          "citron",
+          "bergamote",
+          "cassis"
+        ],
+        "coeur": [
+          "bouleau",
+          "jasmin",
+          "rose"
+        ],
+        "fond": [
+          "musc-blanc",
+          "ambre-gris",
+          "patchouli",
+          "vanille"
+        ]
+      },
+      "accords": [
+        "fruite",
+        "fume",
+        "boise",
+        "musc"
+      ],
+      "family": "fumee",
+      "seasons": [
+        "printemps",
+        "ete",
+        "automne"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "rasasi-hawas-for-him",
+      "brand": "Rasasi",
+      "name": "Hawas For Him",
+      "year": 2017,
+      "concentration": "eau-de-parfum",
+      "perfumers": [],
+      "notes": {
+        "tete": [
+          "pomme",
+          "cannelle",
+          "bergamote",
+          "citron"
+        ],
+        "coeur": [
+          "ambre-gris",
+          "notes-marines",
+          "jasmin"
+        ],
+        "fond": [
+          "musc-blanc",
+          "cedre",
+          "ambre"
+        ]
+      },
+      "accords": [
+        "fruite",
+        "aquatique",
+        "boise",
+        "musc"
+      ],
+      "family": "fruitee",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "ysl-la-nuit-de-lhomme",
+      "brand": "Yves Saint Laurent",
+      "name": "La Nuit de l'Homme",
+      "year": 2009,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Anne Flipo",
+        "Dominique Ropion",
+        "Pierre Wargnye"
+      ],
+      "notes": {
+        "tete": [
+          "cardamome"
+        ],
+        "coeur": [
+          "lavande",
+          "cedre",
+          "bergamote"
+        ],
+        "fond": [
+          "feve-tonka",
+          "vetiver",
+          "cumin"
+        ]
+      },
+      "accords": [
+        "epice",
+        "boise",
+        "sucre"
+      ],
+      "family": "epicee-fraiche",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "paco-rabanne-1-million",
+      "brand": "Paco Rabanne",
+      "name": "1 Million",
+      "year": 2008,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Christophe Raynaud",
+        "Olivier Pescheux",
+        "Michel Girard"
+      ],
+      "notes": {
+        "tete": [
+          "pamplemousse",
+          "menthe",
+          "mandarine"
+        ],
+        "coeur": [
+          "cannelle",
+          "rose",
+          "poivre-rose"
+        ],
+        "fond": [
+          "cuir",
+          "ambre",
+          "feve-tonka",
+          "patchouli"
+        ]
+      },
+      "accords": [
+        "epice",
+        "cuir",
+        "sucre",
+        "ambre"
+      ],
+      "family": "epicee-chaude",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "jpg-le-male",
+      "brand": "Jean Paul Gaultier",
+      "name": "Le Male",
+      "year": 1995,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "tete": [
+          "menthe",
+          "lavande",
+          "bergamote"
+        ],
+        "coeur": [
+          "cannelle",
+          "cumin",
+          "fleur-doranger"
+        ],
+        "fond": [
+          "vanille",
+          "feve-tonka",
+          "santal",
+          "ambre"
+        ]
+      },
+      "accords": [
+        "aromatique",
+        "sucre",
+        "vanille",
+        "epice"
+      ],
+      "family": "aromatique",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "dior-homme-intense-2011",
+      "brand": "Dior",
+      "name": "Homme Intense",
+      "year": 2011,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "François Demachy"
+      ],
+      "notes": {
+        "tete": [
+          "lavande"
+        ],
+        "coeur": [
+          "iris",
+          "ambrette",
+          "poire"
+        ],
+        "fond": [
+          "vetiver",
+          "cedre",
+          "feve-tonka"
+        ]
+      },
+      "accords": [
+        "poudre",
+        "floral",
+        "boise"
+      ],
+      "family": "florale-poudree",
+      "seasons": [
+        "automne",
+        "hiver",
+        "printemps"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "tom-ford-tobacco-vanille",
+      "brand": "Tom Ford",
+      "name": "Tobacco Vanille",
+      "year": 2007,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Olivier Gillotin"
+      ],
+      "notes": {
+        "tete": [
+          "tabac"
+        ],
+        "coeur": [
+          "vanille",
+          "chocolat",
+          "feve-tonka"
+        ],
+        "fond": [
+          "bois-flotte",
+          "feve-tonka",
+          "vanille"
+        ]
+      },
+      "accords": [
+        "gourmand",
+        "fume",
+        "vanille",
+        "epice"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "tom-ford-oud-wood",
+      "brand": "Tom Ford",
+      "name": "Oud Wood",
+      "year": 2007,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Richard Herpin"
+      ],
+      "notes": {
+        "tete": [
+          "poivre-rose",
+          "cardamome"
+        ],
+        "coeur": [
+          "oud",
+          "santal",
+          "vetiver"
+        ],
+        "fond": [
+          "feve-tonka",
+          "vanille",
+          "ambre"
+        ]
+      },
+      "accords": [
+        "boise",
+        "epice",
+        "ambre"
+      ],
+      "family": "boisee-cremeuse",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "mfk-baccarat-rouge-540-edp",
+      "brand": "Maison Francis Kurkdjian",
+      "name": "Baccarat Rouge 540",
+      "year": 2015,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Francis Kurkdjian"
+      ],
+      "notes": {
+        "tete": [
+          "safran",
+          "jasmin"
+        ],
+        "coeur": [
+          "ambre-gris",
+          "cedre"
+        ],
+        "fond": [
+          "feve-tonka",
+          "musc-blanc",
+          "ambre"
+        ]
+      },
+      "accords": [
+        "sucre",
+        "ambre",
+        "boise",
+        "musc"
+      ],
+      "family": "ambree",
+      "seasons": [
+        "automne",
+        "hiver",
+        "printemps"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "le-labo-santal-33",
+      "brand": "Le Labo",
+      "name": "Santal 33",
+      "year": 2011,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Frank Voelkl"
+      ],
+      "notes": {
+        "tete": [
+          "cardamome",
+          "violette"
+        ],
+        "coeur": [
+          "iris",
+          "cuir",
+          "santal"
+        ],
+        "fond": [
+          "cedre",
+          "musc-blanc",
+          "ambre"
+        ]
+      },
+      "accords": [
+        "boise",
+        "cuir",
+        "poudre"
+      ],
+      "family": "boisee-cremeuse",
+      "seasons": [
+        "automne",
+        "hiver",
+        "printemps"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "armani-acqua-di-gio-profumo",
+      "brand": "Giorgio Armani",
+      "name": "Acqua di Giò Profumo",
+      "year": 2015,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Alberto Morillas"
+      ],
+      "notes": {
+        "tete": [
+          "bergamote",
+          "notes-marines"
+        ],
+        "coeur": [
+          "romarin",
+          "sauge",
+          "geranium"
+        ],
+        "fond": [
+          "encens",
+          "patchouli",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "aquatique",
+        "aromatique",
+        "mineral"
+      ],
+      "family": "marine",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "versace-eros",
+      "brand": "Versace",
+      "name": "Eros",
+      "year": 2012,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Aurelien Guichard"
+      ],
+      "notes": {
+        "tete": [
+          "menthe",
+          "pomme",
+          "citron"
+        ],
+        "coeur": [
+          "feve-tonka",
+          "geranium",
+          "ambroxan"
+        ],
+        "fond": [
+          "vanille",
+          "vetiver",
+          "cedre",
+          "mousse-de-chene"
+        ]
+      },
+      "accords": [
+        "frais",
+        "sucre",
+        "vanille",
+        "boise"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "printemps",
+        "automne"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "prada-lhomme",
+      "brand": "Prada",
+      "name": "L'Homme",
+      "year": 2016,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Daniela Andrier"
+      ],
+      "notes": {
+        "tete": [
+          "poivre-noir",
+          "neroli"
+        ],
+        "coeur": [
+          "iris",
+          "geranium",
+          "violette"
+        ],
+        "fond": [
+          "ambre",
+          "patchouli",
+          "cedre"
+        ]
+      },
+      "accords": [
+        "poudre",
+        "floral",
+        "boise",
+        "savonneux"
+      ],
+      "family": "florale-poudree",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "discret"
+    },
+    {
+      "id": "guerlain-shalimar",
+      "brand": "Guerlain",
+      "name": "Shalimar",
+      "year": 1925,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Jacques Guerlain"
+      ],
+      "notes": {
+        "tete": [
+          "bergamote",
+          "citron",
+          "mandarine"
+        ],
+        "coeur": [
+          "iris",
+          "jasmin",
+          "rose",
+          "patchouli"
+        ],
+        "fond": [
+          "vanille",
+          "feve-tonka",
+          "encens",
+          "cuir",
+          "opoponax"
+        ]
+      },
+      "accords": [
+        "ambre",
+        "vanille",
+        "poudre",
+        "fume"
+      ],
+      "family": "ambree",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "chanel-n5-edp",
+      "brand": "Chanel",
+      "name": "N°5",
+      "year": 1921,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Ernest Beaux"
+      ],
+      "notes": {
+        "tete": [
+          "aldehydes",
+          "citron",
+          "neroli"
+        ],
+        "coeur": [
+          "jasmin",
+          "rose",
+          "muguet",
+          "iris"
+        ],
+        "fond": [
+          "santal",
+          "vanille",
+          "musc-blanc",
+          "vetiver"
+        ]
+      },
+      "accords": [
+        "poudre",
+        "floral",
+        "musc",
+        "savonneux"
+      ],
+      "family": "aldehydee",
+      "seasons": [
+        "automne",
+        "hiver",
+        "printemps"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "dior-jadore-edp",
+      "brand": "Dior",
+      "name": "J'adore",
+      "year": 1999,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Calice Becker"
+      ],
+      "notes": {
+        "tete": [
+          "poire",
+          "melon",
+          "bergamote"
+        ],
+        "coeur": [
+          "jasmin",
+          "rose",
+          "tubereuse",
+          "ylang-ylang"
+        ],
+        "fond": [
+          "musc-blanc",
+          "cedre",
+          "vanille"
+        ]
+      },
+      "accords": [
+        "floral",
+        "fruite",
+        "musc"
+      ],
+      "family": "florale-blanche",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "lancome-la-vie-est-belle",
+      "brand": "Lancôme",
+      "name": "La Vie Est Belle",
+      "year": 2012,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Olivier Polge",
+        "Dominique Ropion",
+        "Anne Flipo"
+      ],
+      "notes": {
+        "tete": [
+          "cassis",
+          "poire"
+        ],
+        "coeur": [
+          "iris",
+          "jasmin",
+          "fleur-doranger"
+        ],
+        "fond": [
+          "praline",
+          "vanille",
+          "patchouli",
+          "feve-tonka"
+        ]
+      },
+      "accords": [
+        "sucre",
+        "gourmand",
+        "poudre",
+        "floral"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "mugler-angel",
+      "brand": "Mugler",
+      "name": "Angel",
+      "year": 1992,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Olivier Cresp",
+        "Yves de Chirin"
+      ],
+      "notes": {
+        "tete": [
+          "bergamote",
+          "mandarine"
+        ],
+        "coeur": [
+          "miel",
+          "abricot",
+          "mure",
+          "coco"
+        ],
+        "fond": [
+          "chocolat",
+          "caramel",
+          "patchouli",
+          "vanille"
+        ]
+      },
+      "accords": [
+        "gourmand",
+        "sucre",
+        "terreux"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "mugler-alien",
+      "brand": "Mugler",
+      "name": "Alien",
+      "year": 2005,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Dominique Ropion",
+        "Laurent Bruyere"
+      ],
+      "notes": {
+        "tete": [
+          "jasmin"
+        ],
+        "coeur": [
+          "jasmin",
+          "ambre"
+        ],
+        "fond": [
+          "bois-flotte",
+          "ambre",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "floral",
+        "ambre",
+        "boise"
+      ],
+      "family": "florale-blanche",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "hermes-terre-dhermes",
+      "brand": "Hermès",
+      "name": "Terre d'Hermès",
+      "year": 2006,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Jean-Claude Ellena"
+      ],
+      "notes": {
+        "tete": [
+          "orange",
+          "pamplemousse"
+        ],
+        "coeur": [
+          "poivre-noir",
+          "geranium",
+          "silex"
+        ],
+        "fond": [
+          "vetiver",
+          "cedre",
+          "benjoin",
+          "patchouli"
+        ]
+      },
+      "accords": [
+        "boise",
+        "mineral",
+        "agrumes",
+        "epice"
+      ],
+      "family": "boisee-seche",
+      "seasons": [
+        "printemps",
+        "automne"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "chanel-allure-homme-sport",
+      "brand": "Chanel",
+      "name": "Allure Homme Sport",
+      "year": 2004,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Jacques Polge"
+      ],
+      "notes": {
+        "tete": [
+          "orange",
+          "aldehydes",
+          "mandarine"
+        ],
+        "coeur": [
+          "poivre-noir",
+          "neroli",
+          "cedre"
+        ],
+        "fond": [
+          "musc-blanc",
+          "vetiver",
+          "feve-tonka",
+          "vanille"
+        ]
+      },
+      "accords": [
+        "frais",
+        "agrumes",
+        "boise",
+        "musc"
+      ],
+      "family": "agrumes",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "discret"
+    },
+    {
+      "id": "armani-code-homme",
+      "brand": "Giorgio Armani",
+      "name": "Code",
+      "year": 2004,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Antoine Maisondieu",
+        "Clement Gavarry"
+      ],
+      "notes": {
+        "tete": [
+          "citron",
+          "bergamote"
+        ],
+        "coeur": [
+          "fleur-doranger",
+          "anis"
+        ],
+        "fond": [
+          "feve-tonka",
+          "cuir",
+          "bois-flotte"
+        ]
+      },
+      "accords": [
+        "sucre",
+        "cuir",
+        "aromatique"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "givenchy-gentleman-edp-2017",
+      "brand": "Givenchy",
+      "name": "Gentleman",
+      "year": 2017,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Nathalie Lorson"
+      ],
+      "notes": {
+        "tete": [
+          "poire",
+          "cardamome",
+          "lavande"
+        ],
+        "coeur": [
+          "iris",
+          "rose",
+          "patchouli"
+        ],
+        "fond": [
+          "vanille",
+          "cuir",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "floral",
+        "poudre",
+        "cuir",
+        "sucre"
+      ],
+      "family": "florale-poudree",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "pdm-layton",
+      "brand": "Parfums de Marly",
+      "name": "Layton",
+      "year": 2016,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Hamid Merati-Kashani"
+      ],
+      "notes": {
+        "tete": [
+          "pomme",
+          "bergamote",
+          "lavande",
+          "mandarine"
+        ],
+        "coeur": [
+          "geranium",
+          "violette",
+          "jasmin"
+        ],
+        "fond": [
+          "vanille",
+          "santal",
+          "feve-tonka",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "sucre",
+        "vanille",
+        "epice",
+        "boise"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver",
+        "printemps"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "pdm-herod",
+      "brand": "Parfums de Marly",
+      "name": "Herod",
+      "year": 2012,
+      "concentration": "eau-de-parfum",
+      "perfumers": [],
+      "notes": {
+        "tete": [
+          "cannelle",
+          "poivre-noir",
+          "osmanthus"
+        ],
+        "coeur": [
+          "tabac",
+          "oud",
+          "encens"
+        ],
+        "fond": [
+          "vanille",
+          "cade",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "fume",
+        "vanille",
+        "epice",
+        "boise"
+      ],
+      "family": "fumee",
+      "seasons": [
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "initio-oud-for-greatness",
+      "brand": "Initio",
+      "name": "Oud for Greatness",
+      "year": 2019,
+      "concentration": "eau-de-parfum",
+      "perfumers": [],
+      "notes": {
+        "tete": [
+          "muscade",
+          "safran",
+          "lavande"
+        ],
+        "coeur": [
+          "oud",
+          "patchouli"
+        ],
+        "fond": [
+          "musc-blanc",
+          "sel",
+          "ambre"
+        ]
+      },
+      "accords": [
+        "boise",
+        "epice",
+        "ambre"
+      ],
+      "family": "boisee-cremeuse",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "xerjoff-naxos",
+      "brand": "Xerjoff",
+      "name": "Naxos",
+      "year": 2015,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Chris Maurice"
+      ],
+      "notes": {
+        "tete": [
+          "bergamote",
+          "lavande",
+          "citron"
+        ],
+        "coeur": [
+          "miel",
+          "cannelle",
+          "feve-tonka"
+        ],
+        "fond": [
+          "tabac",
+          "vanille",
+          "feve-tonka",
+          "mousse-de-chene"
+        ]
+      },
+      "accords": [
+        "miel",
+        "gourmand",
+        "fume",
+        "aromatique"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "nishane-hacivat",
+      "brand": "Nishane",
+      "name": "Hacivat",
+      "year": 2017,
+      "concentration": "extrait",
+      "perfumers": [
+        "Cecile Zarokian"
+      ],
+      "notes": {
+        "tete": [
+          "ananas",
+          "pamplemousse",
+          "bergamote"
+        ],
+        "coeur": [
+          "jasmin",
+          "patchouli"
+        ],
+        "fond": [
+          "cedre",
+          "oud",
+          "mousse-de-chene"
+        ]
+      },
+      "accords": [
+        "fruite",
+        "boise",
+        "frais"
+      ],
+      "family": "fruitee",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "byredo-gypsy-water",
+      "brand": "Byredo",
+      "name": "Gypsy Water",
+      "year": 2008,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Jerome Epinette"
+      ],
+      "notes": {
+        "tete": [
+          "bergamote",
+          "genievre",
+          "citron",
+          "poivre-noir"
+        ],
+        "coeur": [
+          "encens",
+          "pin",
+          "fleur-doranger"
+        ],
+        "fond": [
+          "ambre",
+          "santal",
+          "vanille"
+        ]
+      },
+      "accords": [
+        "boise",
+        "resineux",
+        "vanille"
+      ],
+      "family": "resineuse",
+      "seasons": [
+        "printemps",
+        "automne"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "discret"
+    },
+    {
+      "id": "margiela-replica-jazz-club",
+      "brand": "Maison Margiela",
+      "name": "Replica Jazz Club",
+      "year": 2013,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Alienor Massenet"
+      ],
+      "notes": {
+        "tete": [
+          "poivre-rose",
+          "citron",
+          "neroli"
+        ],
+        "coeur": [
+          "rhum",
+          "clou-de-girofle",
+          "sauge"
+        ],
+        "fond": [
+          "tabac",
+          "vanille",
+          "feve-tonka",
+          "styrax"
+        ]
+      },
+      "accords": [
+        "gourmand",
+        "fume",
+        "vanille",
+        "epice"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "diptyque-philosykos-edt",
+      "brand": "Diptyque",
+      "name": "Philosykos",
+      "year": 1996,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Olivia Giacobetti"
+      ],
+      "notes": {
+        "tete": [
+          "feuille-de-figuier"
+        ],
+        "coeur": [
+          "figue",
+          "coco"
+        ],
+        "fond": [
+          "cedre",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "vert",
+        "fruite",
+        "boise"
+      ],
+      "family": "verte",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "discret"
+    },
+    {
+      "id": "guerlain-vetiver",
+      "brand": "Guerlain",
+      "name": "Vétiver",
+      "year": 1961,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Jean-Paul Guerlain"
+      ],
+      "notes": {
+        "tete": [
+          "citron",
+          "bergamote",
+          "coriandre"
+        ],
+        "coeur": [
+          "vetiver",
+          "tabac",
+          "muscade"
+        ],
+        "fond": [
+          "tabac",
+          "musc-blanc",
+          "feve-tonka"
+        ]
+      },
+      "accords": [
+        "boise",
+        "terreux",
+        "agrumes"
+      ],
+      "family": "boisee-seche",
+      "seasons": [
+        "printemps",
+        "ete",
+        "automne"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "malle-portrait-of-a-lady",
+      "brand": "Editions de Parfums Frédéric Malle",
+      "name": "Portrait of a Lady",
+      "year": 2010,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Dominique Ropion"
+      ],
+      "notes": {
+        "tete": [
+          "framboise",
+          "cassis",
+          "clou-de-girofle"
+        ],
+        "coeur": [
+          "rose",
+          "cannelle",
+          "encens"
+        ],
+        "fond": [
+          "patchouli",
+          "santal",
+          "benjoin",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "floral",
+        "epice",
+        "terreux",
+        "resineux"
+      ],
+      "family": "florale-rosee",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "serge-lutens-chergui",
+      "brand": "Serge Lutens",
+      "name": "Chergui",
+      "year": 2005,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Christopher Sheldrake"
+      ],
+      "notes": {
+        "tete": [
+          "tabac",
+          "miel"
+        ],
+        "coeur": [
+          "rose",
+          "iris",
+          "foin"
+        ],
+        "fond": [
+          "ambre",
+          "musc-blanc",
+          "benjoin",
+          "styrax"
+        ]
+      },
+      "accords": [
+        "miel",
+        "fume",
+        "ambre",
+        "poudre"
+      ],
+      "family": "ambree",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "amouage-interlude-man",
+      "brand": "Amouage",
+      "name": "Interlude Man",
+      "year": 2012,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Pierre Negrin"
+      ],
+      "notes": {
+        "tete": [
+          "bergamote",
+          "origan",
+          "poivre-noir"
+        ],
+        "coeur": [
+          "encens",
+          "opoponax",
+          "myrrhe"
+        ],
+        "fond": [
+          "cuir",
+          "mousse-de-chene",
+          "patchouli",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "resineux",
+        "fume",
+        "cuir",
+        "terreux"
+      ],
+      "family": "resineuse",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "creed-green-irish-tweed",
+      "brand": "Creed",
+      "name": "Green Irish Tweed",
+      "year": 1985,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Pierre Bourdon",
+        "Olivier Creed"
+      ],
+      "notes": {
+        "tete": [
+          "citron",
+          "feuille-de-violette"
+        ],
+        "coeur": [
+          "iris",
+          "feuille-de-violette"
+        ],
+        "fond": [
+          "santal",
+          "ambre-gris"
+        ]
+      },
+      "accords": [
+        "vert",
+        "frais",
+        "boise",
+        "poudre"
+      ],
+      "family": "verte",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "bvlgari-man-in-black",
+      "brand": "Bvlgari",
+      "name": "Man in Black",
+      "year": 2014,
+      "concentration": "eau-de-parfum",
+      "perfumers": [
+        "Alberto Morillas"
+      ],
+      "notes": {
+        "tete": [
+          "rhum",
+          "poivre-noir"
+        ],
+        "coeur": [
+          "cuir",
+          "tubereuse",
+          "iris"
+        ],
+        "fond": [
+          "tabac",
+          "benjoin",
+          "feve-tonka",
+          "cuir"
+        ]
+      },
+      "accords": [
+        "cuir",
+        "epice",
+        "ambre",
+        "gourmand"
+      ],
+      "family": "cuir",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "montale-intense-cafe",
+      "brand": "Montale",
+      "name": "Intense Café",
+      "year": 2013,
+      "concentration": "eau-de-parfum",
+      "perfumers": [],
+      "notes": {
+        "tete": [
+          "rose"
+        ],
+        "coeur": [
+          "cafe",
+          "rose"
+        ],
+        "fond": [
+          "vanille",
+          "musc-blanc",
+          "ambre"
+        ]
+      },
+      "accords": [
+        "gourmand",
+        "floral",
+        "sucre"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "lattafa-khamrah",
+      "brand": "Lattafa",
+      "name": "Khamrah",
+      "year": 2022,
+      "concentration": "eau-de-parfum",
+      "perfumers": [],
+      "notes": {
+        "tete": [
+          "cannelle",
+          "muscade",
+          "bergamote"
+        ],
+        "coeur": [
+          "prune",
+          "feve-tonka",
+          "pain-depice"
+        ],
+        "fond": [
+          "vanille",
+          "benjoin",
+          "musc-blanc",
+          "amande"
+        ]
+      },
+      "accords": [
+        "gourmand",
+        "epice",
+        "sucre",
+        "vanille"
+      ],
+      "family": "gourmande",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "soir"
+      ],
+      "intensity": "puissant"
+    },
+    {
+      "id": "chanel-sycomore",
+      "brand": "Chanel",
+      "name": "Sycomore",
+      "year": 2008,
+      "concentration": "extrait",
+      "perfumers": [
+        "Jacques Polge",
+        "Christopher Sheldrake"
+      ],
+      "notes": {
+        "tete": [
+          "aldehydes",
+          "genievre",
+          "cypres"
+        ],
+        "coeur": [
+          "vetiver",
+          "violette",
+          "tabac"
+        ],
+        "fond": [
+          "santal",
+          "encens",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "boise",
+        "fume",
+        "terreux"
+      ],
+      "family": "boisee-seche",
+      "seasons": [
+        "automne",
+        "hiver"
+      ],
+      "moments": [
+        "jour",
+        "soir"
+      ],
+      "intensity": "modere"
+    },
+    {
+      "id": "dior-eau-sauvage",
+      "brand": "Dior",
+      "name": "Eau Sauvage",
+      "year": 1966,
+      "concentration": "eau-de-toilette",
+      "perfumers": [
+        "Edmond Roudnitska"
+      ],
+      "notes": {
+        "tete": [
+          "citron",
+          "bergamote",
+          "romarin"
+        ],
+        "coeur": [
+          "jasmin",
+          "basilic",
+          "coriandre"
+        ],
+        "fond": [
+          "vetiver",
+          "mousse-de-chene",
+          "musc-blanc"
+        ]
+      },
+      "accords": [
+        "agrumes",
+        "aromatique",
+        "frais"
+      ],
+      "family": "agrumes",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "discret"
+    },
+    {
+      "id": "acqua-di-parma-colonia",
+      "brand": "Acqua di Parma",
+      "name": "Colonia",
+      "year": 1916,
+      "concentration": "eau-de-cologne",
+      "perfumers": [],
+      "notes": {
+        "tete": [
+          "citron",
+          "bergamote",
+          "orange"
+        ],
+        "coeur": [
+          "lavande",
+          "romarin",
+          "rose"
+        ],
+        "fond": [
+          "vetiver",
+          "musc-blanc",
+          "santal"
+        ]
+      },
+      "accords": [
+        "agrumes",
+        "frais",
+        "savonneux",
+        "aromatique"
+      ],
+      "family": "agrumes",
+      "seasons": [
+        "printemps",
+        "ete"
+      ],
+      "moments": [
+        "jour"
+      ],
+      "intensity": "discret"
+    }
+  ],
+  "dupeLinks": [
+    {
+      "id": "cdnim-aventus",
+      "perfumeOriginalId": "creed-aventus",
+      "perfumeCloneId": "armaf-club-de-nuit-intense-man",
+      "confidence": 0.75,
+      "sources": [
+        {
+          "type": "communaute",
+          "url": null,
+          "label": "Rapprochement largement discuté dans les communautés — aucune source citable enregistrée, à vérifier"
+        }
+      ],
+      "verifiedAt": null
+    },
+    {
+      "id": "hawas-aventus",
+      "perfumeOriginalId": "creed-aventus",
+      "perfumeCloneId": "rasasi-hawas-for-him",
+      "confidence": 0.5,
+      "sources": [
+        {
+          "type": "communaute",
+          "url": null,
+          "label": "Parenté évoquée dans les communautés — aucune source citable enregistrée, à vérifier"
+        }
+      ],
+      "verifiedAt": null
+    }
+  ]
+}

@@ -82,6 +82,7 @@ export const NOTES: readonly NoteDef[] = [
   { id: 'anis', label: 'Anis', facet: 'aromatique', synonyms: ['anise', 'badiane'] },
   { id: 'estragon', label: 'Estragon', facet: 'aromatique', synonyms: ['tarragon'] },
   { id: 'absinthe', label: 'Absinthe', facet: 'aromatique', synonyms: [] },
+  { id: 'origan', label: 'Origan', facet: 'aromatique', synonyms: ['oregano'] },
 
   // — Verte
   { id: 'galbanum', label: 'Galbanum', facet: 'verte', synonyms: [] },
@@ -113,6 +114,7 @@ export const NOTES: readonly NoteDef[] = [
   { id: 'freesia', label: 'Freesia', facet: 'florale-blanche', synonyms: [] },
   { id: 'narcisse', label: 'Narcisse', facet: 'florale-blanche', synonyms: ['narcissus'] },
   { id: 'lys', label: 'Lys', facet: 'florale-blanche', synonyms: ['lily'] },
+  { id: 'osmanthus', label: 'Osmanthus', facet: 'florale-blanche', synonyms: ['osmanthe'] },
 
   // — Florale rosée
   { id: 'rose', label: 'Rose', facet: 'florale-rosee', synonyms: [] },
@@ -285,6 +287,27 @@ export const ACCORDS: readonly AccordDef[] = [
 
 // — Index. L'ordre des tableaux ci-dessus fixe l'ordre des dimensions des
 //   vecteurs ; il ne doit pas changer sans régénérer les vecteurs stockés.
+
+/**
+ * Empreinte du vocabulaire. Elle change dès qu'une note, un accord ou une
+ * facette est ajouté, retiré ou déplacé — donc dès que la signification des
+ * dimensions change. Les vecteurs persistés portent cette empreinte : si elle
+ * ne correspond plus, ils doivent être recalculés avant toute comparaison.
+ */
+export const VOCABULARY_VERSION: string = (() => {
+  const payload = [
+    NOTES.map((n) => n.id).join(','),
+    ACCORDS.map((a) => a.id).join(','),
+    FACETS.map((f) => f.id).join(','),
+  ].join('|')
+  // FNV-1a 32 bits : court, stable, sans dépendance.
+  let hash = 0x811c9dc5
+  for (let i = 0; i < payload.length; i++) {
+    hash ^= payload.charCodeAt(i)
+    hash = Math.imul(hash, 0x01000193) >>> 0
+  }
+  return `v1-${hash.toString(16).padStart(8, '0')}`
+})()
 
 export const NOTE_IDS: readonly string[] = NOTES.map((n) => n.id)
 export const ACCORD_IDS: readonly string[] = ACCORDS.map((a) => a.id)
